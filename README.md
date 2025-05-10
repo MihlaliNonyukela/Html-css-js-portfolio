@@ -9,14 +9,6 @@ Welcome to my data analytics and machine learning portfolio! I'm a Computer Scie
 
 📊 Skilled in data wrangling, analysis, and building predictive models
 
-📂 Projects
-Project	Description	Tools
-Project Name 1	Brief description of what it does.	Python, Pandas, scikit-learn
-Project Name 2	Brief description of what it does.	SQL, Power BI
-Project Name 3	Brief description of what it does.	Python, TensorFlow
-
-Each project folder contains a README with more details, code, and outputs.
-
 🚀 Goals
 Expand knowledge in deep learning and MLOps
 
