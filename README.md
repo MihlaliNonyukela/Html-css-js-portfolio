@@ -1,7 +1,7 @@
 Welcome to my data analytics and machine learning portfolio! I'm a Computer Science graduate with an Honours degree and over a year of industry experience in data analytics. This repository showcases selected projects that highlight my skills in Python, machine learning, and data visualization.
 
 🔍 About Me
-🎓 BSc in Computer Science (Honours)
+🎓 BSc in Computer Science 
 
 💼 1+ year experience in data analytics
 
